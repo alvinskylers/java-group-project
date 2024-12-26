@@ -26,7 +26,6 @@ public class MultipleChoiceQuestion extends Question implements MultipleChoice {
         return answer;
     }
 
-
     @Override
     public void answerQuestion(int choice) {
         this.pass = (choice == answer);
