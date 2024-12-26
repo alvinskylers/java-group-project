@@ -13,7 +13,7 @@ public class MCQTests {
     MultipleChoiceQuestion mcq = new MultipleChoiceQuestion(question, options, answer);
 
     @Test
-    public void doesMCQExists(){
+    public void doesQuizExist(){
         assertEquals(question, mcq.getQuestion());
         assertEquals(options, mcq.getOptions());
         assertEquals(answer, mcq.getAnswer());
@@ -21,12 +21,12 @@ public class MCQTests {
     }
 
     @Test
-    public void mcqAnsweredCorrectly() {
+    public void quizAnsweredCorrectly() {
         mcq.answerQuestion(0);
         assertEquals(true, mcq.checkPass());
     }
 
-    @Test void mcqAnsweredIncorrectly() {
+    @Test void quizAnsweredIncorrectly() {
         mcq.answerQuestion(1);
         assertEquals(false, mcq.checkPass());
     }
