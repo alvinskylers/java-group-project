@@ -27,7 +27,9 @@ public class QuizTOF extends Quiz implements QuizProperties {
         return this.tofs.get(index);
     }
 
-
+    public ArrayList<TrueOrFalseQuestion> getQuestions() {
+        return tofs;
+    }
 
     private void setScore(int score){
         this.score = score;

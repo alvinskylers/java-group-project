@@ -27,6 +27,10 @@ public class QuizMCQ extends Quiz implements QuizProperties {
         return mcqs.get(index);
     }
 
+    public ArrayList<MultipleChoiceQuestion> getQuestions(){
+        return mcqs;
+    }
+
     public void addQuestion(MultipleChoiceQuestion question){
         mcqs.add(question);
     }

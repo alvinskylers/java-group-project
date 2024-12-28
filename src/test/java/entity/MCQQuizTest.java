@@ -47,6 +47,7 @@ public class MCQQuizTest {
         quiz.addQuestion(mcq2);
         quiz.addQuestion(mcq3);
         assertNotNull(quiz);
+        System.out.println(quiz.getQuestion(0));
     }
 
     //Answer Questions

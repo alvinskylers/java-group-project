@@ -1,0 +1,12 @@
+Object-Oriented Programming Basics
+Test your knowledge of fundamental OOP concepts.
+A class can have multiple constructors,true
+Encapsulation is achieved using private variables and public methods,true
+An object is an instance of a class,true
+Polymorphism allows methods to have the same name but different behaviors,true
+Inheritance allows a class to acquire properties of another class,true
+Java supports multiple inheritance through classes,false
+Abstraction means showing only essential features and hiding implementation,true
+Interfaces in Java can have constructors,false
+Static methods can access instance variables directly,false
+Overriding occurs when a subclass defines a method with the same signature as its parent class,true

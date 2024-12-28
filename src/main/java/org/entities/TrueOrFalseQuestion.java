@@ -31,4 +31,12 @@ public class TrueOrFalseQuestion extends Question implements TrueOrFalse {
     public Boolean checkPass() {
         return this.pass;
     }
+
+    @Override
+    public String toString() {
+        String output = "Statement: ";
+        output += "\n" + this.getQuestion();
+
+        return output;
+    }
 }
