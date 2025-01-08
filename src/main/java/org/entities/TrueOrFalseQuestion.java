@@ -4,9 +4,8 @@ import org.concepts.Question;
 import org.interfaces.TrueOrFalse;
 
 public class TrueOrFalseQuestion extends Question implements TrueOrFalse {
-
     private String answer;
-    private String correctAnswer;
+    
     public TrueOrFalseQuestion(String question, String answer) {
         super(question);
         this.answer = answer;

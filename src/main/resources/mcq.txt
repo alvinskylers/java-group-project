@@ -1,7 +1,12 @@
-OOP Quiz
-This quiz contains questions about Object Oriented Programming.
-What is Encapsulation?,Encapsulation groups data and methods,Protects object integrity,Encapsulation ensures security,All of the above,4
-Which principle allows a subclass to use methods of the parent class?,Inheritance,Abstraction,Encapsulation,Polymorphism,1
-What is Polymorphism?,The ability of a method to perform different actions,Changing object attributes,Using constructors for objects,Combining multiple classes,1
-Which of these is NOT an OOP principle?,Abstraction,Inheritance,Class,Modularity,3
-What does the 'this' keyword refer to in Java?,Current object,Parent object,Child object,Static object,1
+OOP Quiz  
+This quiz contains questions about Object Oriented Programming.  
+What is Encapsulation?,Encapsulation groups data and methods,Protects object integrity,Encapsulation ensures security,All of the above,4  
+Which principle allows a subclass to use methods of the parent class?,Inheritance,Abstraction,Encapsulation,Polymorphism,1  
+What is Polymorphism?,The ability of a method to perform different actions,Changing object attributes,Using constructors for objects,Combining multiple classes,1  
+Which of these is NOT an OOP principle?,Abstraction,Inheritance,Class,Modularity,3  
+What does the 'this' keyword refer to in Java?,Current object,Parent object,Child object,Static object,1  
+Which concept allows multiple methods in a class to have the same name but different parameters?,Overloading,Overriding,Abstraction,Inheritance,1  
+What is the purpose of an abstract class?,To provide complete methods,To provide a base for subclasses,To create instances,To implement multiple interfaces,2  
+What is the difference between overloading and overriding?,Overloading happens at runtime,Overriding happens at compile-time,Overloading changes method parameters,Overriding does not use inheritance,3  
+What keyword is used to inherit a class in Java?,super,extends,implements,inherits,2  
+Which of the following is true about interfaces in Java?,Interfaces can have static methods,Interfaces can only have final fields,Interfaces can extend multiple interfaces,All of the above,4  

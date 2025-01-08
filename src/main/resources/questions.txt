@@ -1,0 +1,12 @@
+OOP Quiz  
+This quiz contains questions about Object Oriented Programming.  
+What is the main goal of OOP?,To write procedural code,To implement linear logic,To organize code using objects and classes,To avoid using functions,3  
+Which feature of OOP ensures that an object’s internal state is hidden?,Inheritance,Encapsulation,Polymorphism,Abstraction,2  
+What is the purpose of constructors in a class?,To define private attributes,To initialize an object,To override methods,To access parent methods,2  
+Which access modifier allows a member to be accessible only within the same package?,public,private,protected,default,4  
+What happens when a method in a subclass has the same name as a method in its superclass?,Method overriding,Method overloading,Inheritance failure,Runtime error,1  
+What is a concrete class?,A class with no methods,An abstract class,An instantiable class,An interface,3  
+What is the output when an abstract method is called directly?,The method executes normally,A compile-time error,A runtime error,Nothing happens,2  
+How can multiple inheritance be achieved in Java?,Using multiple classes,Using an interface,Using abstract classes,Java does not support multiple inheritance,2  
+What is the default value of an uninitialized object reference in Java?,null,0,"",undefined,1  
+What type of relationship does "is-a" represent in OOP?,Composition,Association,Inheritance,Dependency,3  

@@ -1,0 +1,12 @@
+Object-Oriented Programming Quiz  
+Test your understanding of core OOP principles.  
+A class can have multiple constructors,true  
+Encapsulation is achieved using private fields and accessor methods,true  
+An object represents a blueprint of a class,false  
+Polymorphism enables one interface to be used for multiple actions,true  
+Inheritance allows sharing of fields and methods between unrelated classes,false  
+Java allows implementing multiple interfaces,true  
+Abstraction focuses on essential features while ignoring non-essentials,true  
+Interfaces in Java can define default methods,true  
+Static methods can access static variables directly,true  
+Overloading occurs when two or more methods in the same class have the same name but different parameters,true  

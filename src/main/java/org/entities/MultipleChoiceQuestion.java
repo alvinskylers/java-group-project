@@ -3,8 +3,6 @@ package org.entities;
 import org.concepts.Question;
 import org.interfaces.MultipleChoice;
 
-import java.lang.annotation.Documented;
-
 public class MultipleChoiceQuestion extends Question implements MultipleChoice {
     private String[] options;
     private int answer;

@@ -5,10 +5,6 @@ import org.entities.QuizMCQ;
 import org.entities.QuizTOF;
 import org.entities.TrueOrFalseQuestion;
 
-import javax.swing.*;
-import java.io.File;
-import java.io.IOException;
-import java.lang.reflect.Array;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Scanner;
